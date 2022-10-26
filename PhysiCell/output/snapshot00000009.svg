@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with PhysiCell (http://PhysiCell.MathCancer.org/) -->
+<svg 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:cc="http://creativecommons.org/ns#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:svg="http://www.w3.org/2000/svg" 
+ xmlns="http://www.w3.org/2000/svg" 
+ version="1.1" 
+ width="1000" 
+ height="1070" 
+ id="svg2">
+  <rect x="0" y="0" width="1000" height="1070" stroke-width="2" stroke="white" fill="white"/>
+  <text x="12.5" y="30"
+   font-family="Arial" font-size="25" fill="black" >
+   Current time: 0 days, 1 hours, and 30.00 minutes, z = 0.00 &#956;m
+  </text>
+  <text x="12.5" y="57.5"
+   font-family="Arial" font-size="23.75" fill="black" >
+   10 agents
+  </text>
+ <g id="tissue" 
+    transform="translate(0,1070) scale(1,-1)">
+  <g id="ECM">
+  </g>
+  <g id="cells">
+   <g id="cell0" type="ellipsey" dead="false" >
+  <ellipse cx="149.59" cy="980.579" rx="50" ry="21.7945" stroke-width="0.5" stroke="black" fill="grey" transform="rotate(-88.5833,149.59,980.579)"/>
+   </g>
+   <g id="cell1" type="ellipsey" dead="false" >
+  <ellipse cx="53.8161" cy="607.076" rx="50" ry="21.7945" stroke-width="0.5" stroke="black" fill="grey" transform="rotate(14.5493,53.8161,607.076)"/>
+   </g>
+   <g id="cell2" type="ellipsey" dead="false" >
+  <ellipse cx="535.345" cy="59.993" rx="50" ry="21.7945" stroke-width="0.5" stroke="black" fill="grey" transform="rotate(-81.0969,535.345,59.993)"/>
+   </g>
+   <g id="cell3" type="ellipsey" dead="false" >
+  <ellipse cx="621.904" cy="432.952" rx="50" ry="21.7945" stroke-width="0.5" stroke="black" fill="grey" transform="rotate(-31.7671,621.904,432.952)"/>
+   </g>
+   <g id="cell4" type="ellipsey" dead="false" >
+  <ellipse cx="838.243" cy="888.994" rx="50" ry="21.7945" stroke-width="0.5" stroke="black" fill="grey" transform="rotate(48.3021,838.243,888.994)"/>
+   </g>
+   <g id="cell5" type="ellipsey" dead="false" >
+  <ellipse cx="422.683" cy="644.933" rx="50" ry="21.7945" stroke-width="0.5" stroke="black" fill="grey" transform="rotate(-9.16969,422.683,644.933)"/>
+   </g>
+   <g id="cell6" type="ellipsey" dead="false" >
+  <ellipse cx="929.696" cy="333.779" rx="50" ry="21.7945" stroke-width="0.5" stroke="black" fill="grey" transform="rotate(-11.1987,929.696,333.779)"/>
+   </g>
+   <g id="cell7" type="ellipsey" dead="false" >
+  <ellipse cx="261.858" cy="424.103" rx="50" ry="21.7945" stroke-width="0.5" stroke="black" fill="grey" transform="rotate(-88.3203,261.858,424.103)"/>
+   </g>
+   <g id="cell8" type="ellipsey" dead="false" >
+  <ellipse cx="776.238" cy="696.414" rx="50" ry="21.7945" stroke-width="0.5" stroke="black" fill="grey" transform="rotate(9.32171,776.238,696.414)"/>
+   </g>
+   <g id="cell9" type="secretor_cell" dead="false" >
+  <ellipse cx="178.333" cy="700" rx="25" ry="25" stroke-width="0.5" stroke="black" fill="red" transform="rotate(-8.68667,178.333,700)"/>
+   </g>
+  </g>
+ </g>
+  <rect x="775" y="1035" width="200" height="10" stroke-width="2" stroke="rgb(255,255,255)" fill="rgb(0,0,0)"/>
+  <text x="781.25" y="1028.75"
+   font-family="Arial" font-size="25" fill="black" >
+   200 &#956;m
+  </text>
+  <text x="25" y="1045"
+   font-family="Arial" font-size="18.75" fill="black" >
+   0 days, 0 hours, 0 minutes, and 1.6430 seconds
+  </text>
+  <rect x="0" y="70" width="1000" height="1000" stroke-width="2" stroke="rgb(0,0,0)" fill="none"/>
+</svg>
