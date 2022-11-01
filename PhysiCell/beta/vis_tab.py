@@ -973,6 +973,5 @@ class Vis(QWidget):
             # print('plot_svg with frame=',self.svg_frame)
             self.plot_svg()
         
-        # self.ax0.set_aspect(1.0)
         ax = plt.gca()
         ax.set_aspect(1.0)
