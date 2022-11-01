@@ -677,6 +677,8 @@ class Vis(QWidget):
             # plt.scatter(xvals,yvals, s=markers_size, c=rgbs)
             self.circles(xvals,yvals, s=rvals, color=rgbs, alpha=self.alpha)
 
+        self.ax0.set_aspect(1.0)
+
     #---------------------------------------------------------------------------
     # assume "frame" is cell frame #, unless Cells is togggled off, then it's the substrate frame #
     # def plot_substrate(self, frame, grid):
